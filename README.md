@@ -1,0 +1,2 @@
+# TweetsClassificationMULTINOMIAL_EVENT_MODEL
+Tweets Classification with MULTINOMIAL EVENT MODEL
